@@ -1,0 +1,24 @@
+{
+  "name": "keystone-custom-fields",
+  "version": "0.1.0",
+  "description": "Custom fields types for keystone",
+  "main": "Readme.md",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fu4d/keystone-custom-fields.git"
+  },
+  "keywords": [
+    "keystone",
+    "fields",
+    "types"
+  ],
+  "author": "Fuad Zabar <fuad.abd.j@gmail.com> (https://fabelio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fu4d/keystone-custom-fields/issues"
+  },
+  "homepage": "https://github.com/fu4d/keystone-custom-fields#readme"
+}
